@@ -1,0 +1,13 @@
+{
+   "manifest_version": 3,
+   "name": "New Tab Page",
+   "description": "New tab page",
+   "version": "1.0.0",
+   "author": "Mike",
+   "chrome_url_overrides": {
+      "newtab": "./index.html"
+   },
+   "icons": {
+      "128": "icon128.png"
+   }
+}
